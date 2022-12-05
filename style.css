@@ -1,0 +1,59 @@
+body{
+    background-color:darkblue
+}
+
+#resultDiv{
+    background-color: rgb(253, 255, 254);
+    height: 30px;
+    width: 180px;
+}
+
+
+#CON_body{
+    background-color: rgb(8, 230, 255);
+    height: 250px;
+    width: 300px;
+    margin: 250px auto; 
+    padding: 30px;
+    border-radius: 10px;
+}
+
+
+#h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#indiv{
+    margin-top: 25px;
+    margin-left: 60px;
+}
+
+#inTxt{
+    height: 30px;
+    border-radius: 5px;
+}
+
+#resultDiv{
+    margin-top: 5px;
+    margin-left: 60px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+    border: 1px solid rgb(7, 7, 7);
+}
+
+#btn_convert{
+    margin-left: 90px;
+    background-color: aqua;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#btn_clear{
+    margin-left: 00px;
+    background-color: aqua;
+    height: 30px;
+    border-radius: 10px;
+}
